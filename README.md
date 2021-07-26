@@ -20,4 +20,4 @@ uwu({
 
 UwU.
 
-* *type:* uwu | owo
+* **type:** uwu | owo
