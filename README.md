@@ -4,12 +4,12 @@ UwU.
 
 # Installation
 
-`npm install uwu --save`
+`npm install uwuLog --save`
 
 Then...
 
 ```
-import { uwu } from 'uwu';
+import { uwuLog } from 'uwuLog';
 
 uwu({
     type: 'uwu'
